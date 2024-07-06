@@ -14,7 +14,7 @@ public class test {
             System.out.print("Lütfen Kullanıcı Adını Giriniz :");
             userName = input.nextLine();
 
-            System.out.print("Lütfen Şifreizi Giriniz :");
+            System.out.print("Lütfen Şifrenizi Giriniz :");
             password = input.nextLine();
 
             if (userName.equals("patika") && (password.equals("123"))) {
